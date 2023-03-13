@@ -1,8 +1,8 @@
 # Môn học   : Image and Video Processing 
-# Giảng Viên: TS Nguyễn Ngọc Trường Minh
-# Lớp       : MSE#11HCM
-# Học viên  : Nguyễn Văn Vũ
-# Mã số     : 22MSE23053
+- Giảng Viên: TS Nguyễn Ngọc Trường Minh
+- Lớp       : MSE#11HCM
+- Học viên  : Nguyễn Văn Vũ
+- Mã số     : 22MSE23053
 --
 
 | Bài Tập | Tên File | Liên Kết|

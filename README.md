@@ -8,5 +8,6 @@
 | Bài Tập | Tên File | Liên Kết|
 |------|:--------:|---------|
 |<p align="left">Bài Tập Tuần 1 </p> | <p align="left">ImageProcessing_Tuan_1.ipynb</p> |[![AnVIL Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguyenvudev20/mse22.imageprocessing/blob/main/ImageProcessing_Tuan_1.ipynb)|
-|<p align="left">Quiz 18.2 </p> | <p align="left">ImagePrcessing_baitap_18_2_2023.ipynb</p> |[![AnVIL Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguyenvudev20/mse22.imageprocessing/blob/main/ImagePrcessing_baitap_18_2_2023.ipynb)|
+|<p align="left">Quiz 1 18.2 </p> | <p align="left">ImagePrcessing_baitap_18_2_2023.ipynb</p> |[![AnVIL Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguyenvudev20/mse22.imageprocessing/blob/main/ImagePrcessing_baitap_18_2_2023.ipynb)|
+|<p align="left">Quiz 2 19.3 </p> | <p align="left">ImagePrcessing_baitap_18_2_2023.ipynb</p> |[![AnVIL Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguyenvudev20/mse22.imageprocessing/blob/main/Quiz_2.ipynb)|
 
